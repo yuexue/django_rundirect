@@ -11,6 +11,7 @@ sdict = {
     'zip_safe': False,
     'install_requires': ['django'],
     'author': 'Lichun',
+    'url': 'https://gitcafe.com/yuexue/django_rundirect',
     'classifiers': [
         'Environment :: Console',
         'Intended Audience :: Developers',
