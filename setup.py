@@ -14,6 +14,7 @@ sdict = {
     'url': 'https://gitcafe.com/yuexue/django_rundirect',
     'classifiers': [
         'Environment :: Console',
+        'Framework :: Django',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python']

@@ -1,5 +1,5 @@
 # django_rundirect
-This is simple Django command to run a custom script with Django settings.
+This is simple Django command to run a custom python script with Django settings loaded and environment setup.
 
 To integrate this package into a django project, add _'django\_rundirect'_ to Django's INSTALLED_APPS.
 
