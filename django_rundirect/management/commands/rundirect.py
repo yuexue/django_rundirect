@@ -33,6 +33,7 @@ args and options are for the SCRIPT.py.
 
     def handle(self, *args, **options):
         filename = self.after[0]
+        sys.argv = self.after
         exec_globals = globals()
         exec_globals['__name__'] = '__main__'
         execfile(filename, exec_globals)
